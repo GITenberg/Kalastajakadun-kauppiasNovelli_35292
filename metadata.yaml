@@ -1,0 +1,26 @@
+_repo: Kalastajakadun-kauppiasNovelli_35292
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lassinen, Emil
+    birthdate: 1861
+    deathdate: 1938
+    gutenberg_agent_id: '37583'
+    url: http://www.gutenberg.org/2009/agents/37583
+description: ''
+gutenberg_issued: '2011-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35292'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish fiction -- 19th century'
+title: 'Kalastajakadun kauppias: Novelli'
+url: http://www.gutenberg.org/ebooks/35292
